@@ -186,6 +186,7 @@ h1, h2, h3, h4, h5, h6 {
 	box-shadow: $shadow1;
 	text-transform: uppercase;
 	background-color: #00a7ee;
+	font-family: 'Raleway';
 	@include transition(all 0.2s ease-in);
 }
 
